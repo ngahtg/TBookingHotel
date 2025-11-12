@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tung\\Desktop\\ass2_prn\\NguyenAnhTung_ SE1967-NET_As02\\NguyenAnhTungWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE2AF18-5B15-B64B-D0EA-1BD09126FF23}|NguyenAnhTungWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\nguyenanhtung_ se1967-net_as02\\nguyenanhtungwpf\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE2AF18-5B15-B64B-D0EA-1BD09126FF23}|NguyenAnhTungWPF.csproj|solutionrelative:viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE2AF18-5B15-B64B-D0EA-1BD09126FF23}|NguyenAnhTungWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\nguyenanhtung_ se1967-net_as02\\nguyenanhtungwpf\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CE2AF18-5B15-B64B-D0EA-1BD09126FF23}|NguyenAnhTungWPF.csproj|solutionrelative:views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE2AF18-5B15-B64B-D0EA-1BD09126FF23}|NguyenAnhTungWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\nguyenanhtung_ se1967-net_as02\\nguyenanhtungwpf\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE2AF18-5B15-B64B-D0EA-1BD09126FF23}|NguyenAnhTungWPF.csproj|solutionrelative:repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE2AF18-5B15-B64B-D0EA-1BD09126FF23}|NguyenAnhTungWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\nguyenanhtung_ se1967-net_as02\\nguyenanhtungwpf\\dal\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE2AF18-5B15-B64B-D0EA-1BD09126FF23}|NguyenAnhTungWPF.csproj|solutionrelative:dal\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE2AF18-5B15-B64B-D0EA-1BD09126FF23}|NguyenAnhTungWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\nguyenanhtung_ se1967-net_as02\\nguyenanhtungwpf\\views\\managecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CE2AF18-5B15-B64B-D0EA-1BD09126FF23}|NguyenAnhTungWPF.csproj|solutionrelative:views\\managecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE2AF18-5B15-B64B-D0EA-1BD09126FF23}|NguyenAnhTungWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\nguyenanhtung_ se1967-net_as02\\nguyenanhtungwpf\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CE2AF18-5B15-B64B-D0EA-1BD09126FF23}|NguyenAnhTungWPF.csproj|solutionrelative:views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE2AF18-5B15-B64B-D0EA-1BD09126FF23}|NguyenAnhTungWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\nguyenanhtung_ se1967-net_as02\\nguyenanhtungwpf\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE2AF18-5B15-B64B-D0EA-1BD09126FF23}|NguyenAnhTungWPF.csproj|solutionrelative:views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE2AF18-5B15-B64B-D0EA-1BD09126FF23}|NguyenAnhTungWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\nguyenanhtung_ se1967-net_as02\\nguyenanhtungwpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE2AF18-5B15-B64B-D0EA-1BD09126FF23}|NguyenAnhTungWPF.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageCustomerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\NguyenAnhTung_ SE1967-NET_As02\\NguyenAnhTungWPF\\Views\\ManageCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\ManageCustomerWindow.xaml",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\NguyenAnhTung_ SE1967-NET_As02\\NguyenAnhTungWPF\\Views\\ManageCustomerWindow.xaml",
+              "RelativeToolTip": "Views\\ManageCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T23:09:20.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\NguyenAnhTung_ SE1967-NET_As02\\NguyenAnhTungWPF\\DAL\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\CustomerDAO.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\NguyenAnhTung_ SE1967-NET_As02\\NguyenAnhTungWPF\\DAL\\CustomerDAO.cs",
+              "RelativeToolTip": "DAL\\CustomerDAO.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAWwDUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:55:48.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\NguyenAnhTung_ SE1967-NET_As02\\NguyenAnhTungWPF\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\NguyenAnhTung_ SE1967-NET_As02\\NguyenAnhTungWPF\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T17:05:46.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\NguyenAnhTung_ SE1967-NET_As02\\NguyenAnhTungWPF\\ViewModels\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AdminViewModel.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\NguyenAnhTung_ SE1967-NET_As02\\NguyenAnhTungWPF\\ViewModels\\AdminViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AdminViewModel.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAmwMIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:03:31.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\NguyenAnhTung_ SE1967-NET_As02\\NguyenAnhTungWPF\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\NguyenAnhTung_ SE1967-NET_As02\\NguyenAnhTungWPF\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:04:20.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\NguyenAnhTung_ SE1967-NET_As02\\NguyenAnhTungWPF\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\NguyenAnhTung_ SE1967-NET_As02\\NguyenAnhTungWPF\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:03:19.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\NguyenAnhTung_ SE1967-NET_As02\\NguyenAnhTungWPF\\Views\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\NguyenAnhTung_ SE1967-NET_As02\\NguyenAnhTungWPF\\Views\\AdminWindow.xaml",
+              "RelativeToolTip": "Views\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T17:04:09.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\NguyenAnhTung_ SE1967-NET_As02\\NguyenAnhTungWPF\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\NguyenAnhTung_ SE1967-NET_As02\\NguyenAnhTungWPF\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T11:03:11.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

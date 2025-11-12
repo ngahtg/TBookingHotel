@@ -1,0 +1,964 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\views\\viewhistorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\views\\viewhistorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\viewmodels\\manageroomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\viewmodels\\manageroomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\viewmodels\\viewhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\viewmodels\\viewhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\viewmodels\\managecustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\viewmodels\\managecustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\viewmodels\\managebookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\viewmodels\\managebookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\viewmodels\\customerprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\viewmodels\\customerprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\viewmodels\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\viewmodels\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\repositories\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\repositories\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\repositories\\roominformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\repositories\\roominformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\repositories\\iroomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\repositories\\iroomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\repositories\\iroominformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\repositories\\iroominformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\repositories\\ibookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\repositories\\ibookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\repositories\\ibookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\repositories\\ibookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\repositories\\bookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\repositories\\bookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\repositories\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\repositories\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\dal\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\dal\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\dal\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\dal\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\dal\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\dal\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\models\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\models\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\dal\\roominformationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\dal\\roominformationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\dal\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\dal\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\views\\customerprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\views\\customerprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\views\\bookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\views\\bookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\views\\managebookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\views\\managebookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\views\\managecustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\views\\managecustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\views\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\views\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\views\\managebookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\views\\managebookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\views\\managecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\views\\managecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\services\\usersessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\services\\usersessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\services\\iusersessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\services\\iusersessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\dal\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\dal\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\models\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\models\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\views\\manageroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\views\\manageroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\models\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\models\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\views\\customerprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\views\\customerprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\phanhuybinhwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\phanhuybinhwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\views\\viewhistorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\views\\viewhistorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|c:\\users\\tung\\desktop\\ass2_prn\\phanhuybinh_ se1967-net_as02\\phanhuybinhwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5AE95BC7-3F62-4207-8A19-983865947307}|PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj|solutionrelative:phanhuybinhwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 63,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageCustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\ManageCustomerViewModel.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\ViewModels\\ManageCustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\ManageCustomerViewModel.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\ViewModels\\ManageCustomerViewModel.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwF4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:18:10.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageRoomViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\ManageRoomViewModel.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\ViewModels\\ManageRoomViewModel.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\ManageRoomViewModel.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\ViewModels\\ManageRoomViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:18:20.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:57:12.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewHistoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\ViewHistoryViewModel.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\ViewModels\\ViewHistoryViewModel.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\ViewHistoryViewModel.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\ViewModels\\ViewHistoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:18:29.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:54:16.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewHistoryWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\ViewHistoryWindow.xaml",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Views\\ViewHistoryWindow.xaml",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\ViewHistoryWindow.xaml",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Views\\ViewHistoryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T18:15:06.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageBookingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\ManageBookingViewModel.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\ViewModels\\ManageBookingViewModel.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\ManageBookingViewModel.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\ViewModels\\ManageBookingViewModel.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:10:03.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowFYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:47:39.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\CustomerProfileViewModel.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\ViewModels\\CustomerProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\CustomerProfileViewModel.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\ViewModels\\CustomerProfileViewModel.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAmwNcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:17:42.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\BookingViewModel.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\ViewModels\\BookingViewModel.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\BookingViewModel.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\ViewModels\\BookingViewModel.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:48:48.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\ViewModels\\AdminViewModel.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\ViewModels\\AdminViewModel.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\ViewModels\\AdminViewModel.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAADwvxIBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:17:29.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoomTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\RoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Repositories\\RoomTypeRepository.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\RoomTypeRepository.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Repositories\\RoomTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:22:50.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoomInformationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\RoomInformationRepository.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Repositories\\RoomInformationRepository.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\RoomInformationRepository.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Repositories\\RoomInformationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:22:40.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRoomTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\IRoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Repositories\\IRoomTypeRepository.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\IRoomTypeRepository.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Repositories\\IRoomTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:18:00.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRoomInformationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\IRoomInformationRepository.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Repositories\\IRoomInformationRepository.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\IRoomInformationRepository.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Repositories\\IRoomInformationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:17:49.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:14:28.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBookingReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\IBookingReservationRepository.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Repositories\\IBookingReservationRepository.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\IBookingReservationRepository.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Repositories\\IBookingReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:17:24.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IBookingDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\IBookingDetailRepository.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Repositories\\IBookingDetailRepository.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\IBookingDetailRepository.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Repositories\\IBookingDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:16:53.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:21:32.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookingReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\BookingReservationRepository.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Repositories\\BookingReservationRepository.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\BookingReservationRepository.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Repositories\\BookingReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:20:40.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookingDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\BookingDetailRepository.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Repositories\\BookingDetailRepository.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Repositories\\BookingDetailRepository.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Repositories\\BookingDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:20:49.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\DAL\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\DAL\\CustomerDAO.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\DAL\\CustomerDAO.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\DAL\\CustomerDAO.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCkAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:06:40.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookingReservationDAO.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\DAL\\BookingReservationDAO.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\DAL\\BookingReservationDAO.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\DAL\\BookingReservationDAO.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\DAL\\BookingReservationDAO.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIAwwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:07:27.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookingDetailDAO.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\DAL\\BookingDetailDAO.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\DAL\\BookingDetailDAO.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\DAL\\BookingDetailDAO.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\DAL\\BookingDetailDAO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:07:07.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Models\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Models\\BookingDetail.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Models\\BookingDetail.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Models\\BookingDetail.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:10:34.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Views\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\AdminWindow.xaml",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Views\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T18:15:37.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RoomInformationDAO.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\DAL\\RoomInformationDAO.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\DAL\\RoomInformationDAO.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\DAL\\RoomInformationDAO.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\DAL\\RoomInformationDAO.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:07:48.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RoomTypeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\DAL\\RoomTypeDAO.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\DAL\\RoomTypeDAO.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\DAL\\RoomTypeDAO.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\DAL\\RoomTypeDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:07:58.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerProfileWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\CustomerProfileWindow.xaml",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Views\\CustomerProfileWindow.xaml",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\CustomerProfileWindow.xaml",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Views\\CustomerProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T18:14:22.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookingWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\BookingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Views\\BookingWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\BookingWindow.xaml.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Views\\BookingWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:31:13.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Views\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Views\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:23:00.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ManageBookingWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\ManageBookingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Views\\ManageBookingWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\ManageBookingWindow.xaml.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Views\\ManageBookingWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:30:11.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ManageCustomerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\ManageCustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Views\\ManageCustomerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\ManageCustomerWindow.xaml.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Views\\ManageCustomerWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAewB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:30:45.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BookingWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\BookingWindow.xaml",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Views\\BookingWindow.xaml",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\BookingWindow.xaml",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Views\\BookingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T13:06:07.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\App.xaml.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\App.xaml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwF0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:56:57.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ManageBookingWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\ManageBookingWindow.xaml",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Views\\ManageBookingWindow.xaml",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\ManageBookingWindow.xaml",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Views\\ManageBookingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T18:16:43.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ManageCustomerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\ManageCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Views\\ManageCustomerWindow.xaml",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\ManageCustomerWindow.xaml",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Views\\ManageCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T14:23:15.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserSessionService.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Services\\UserSessionService.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Services\\UserSessionService.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Services\\UserSessionService.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Services\\UserSessionService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA+wCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:43:28.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IUserSessionService.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Services\\IUserSessionService.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Services\\IUserSessionService.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Services\\IUserSessionService.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Services\\IUserSessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:43:46.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FuminiHotelManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\DAL\\FuminiHotelManagementContext.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\DAL\\FuminiHotelManagementContext.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\DAL\\FuminiHotelManagementContext.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\DAL\\FuminiHotelManagementContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:23:35.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RoomInformation.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Models\\RoomInformation.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Models\\RoomInformation.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Models\\RoomInformation.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Models\\RoomInformation.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:24:38.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T18:06:54.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ManageRoomWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\ManageRoomWindow.xaml",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Views\\ManageRoomWindow.xaml",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\ManageRoomWindow.xaml",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Views\\ManageRoomWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T18:16:23.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Models\\Customer.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Models\\Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:10:39.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BookingReservation.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Models\\BookingReservation.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Models\\BookingReservation.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Models\\BookingReservation.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Models\\BookingReservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:10:38.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Models\\RoomType.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Models\\RoomType.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Models\\RoomType.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Models\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:16:51.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CustomerProfileWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\CustomerProfileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Views\\CustomerProfileWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\CustomerProfileWindow.xaml.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Views\\CustomerProfileWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:29:29.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:23:27.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\AssemblyInfo.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:37:02.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\appsettings.json",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\appsettings.json",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\appsettings.json",
+              "RelativeToolTip": "PhanHuyBinhWPF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-09T16:08:33.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs [Read Only]",
+              "ViewState": "AgIAABcAAAAAAAAAAAAWwCcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T01:33:38.951Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\App.xaml",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\App.xaml",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\App.xaml",
+              "RelativeToolTip": "PhanHuyBinhWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T16:56:54.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PhanHuyBinhWPF.csproj",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj",
+              "RelativeToolTip": "PhanHuyBinhWPF\\PhanHuyBinhWPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T16:41:30.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ViewHistoryWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\ViewHistoryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\Views\\ViewHistoryWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\Views\\ViewHistoryWindow.xaml.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\Views\\ViewHistoryWindow.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:32:23.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\MainWindow.xaml",
+              "RelativeToolTip": "PhanHuyBinhWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T15:34:38.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PhanHuyBinhWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tung\\Desktop\\ass2_prn\\PhanHuyBinh_ SE1967-NET_As02\\PhanHuyBinhWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PhanHuyBinhWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T15:34:35.134Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

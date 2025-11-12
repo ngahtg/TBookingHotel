@@ -1,0 +1,97 @@
+﻿<Window x:Class="NguyenAnhTungWPF.Views.BookingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NguyenAnhTungWPF.Views"
+        mc:Ignorable="d"
+        Title="Create New Booking" Height="700" Width="900"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0,0,0,15" HorizontalAlignment="Center">
+            <Label Content="Select Customer:" FontSize="16" FontWeight="Medium" VerticalAlignment="Center"/>
+            <ComboBox Width="300" VerticalContentAlignment="Center"
+                      ItemsSource="{Binding AllCustomers}"
+                      SelectedItem="{Binding SelectedCustomer}"
+                      DisplayMemberPath="CustomerFullName"/>
+        </StackPanel>
+
+        <TextBlock Grid.Row="1" Text="1. SELECT ROOMS AND DATES" FontSize="18" FontWeight="Bold" Margin="0,0,0,10" HorizontalAlignment="Center"/>
+
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="220"/>
+            </Grid.ColumnDefinitions>
+
+            <DataGrid Grid.Column="0" Margin="0,0,10,0" AutoGenerateColumns="False" CanUserAddRows="False"
+                      IsReadOnly="True" ItemsSource="{Binding AvailableRooms}"
+                      SelectedItem="{Binding SelectedAvailableRoom}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Room #" Binding="{Binding RoomNumber}" Width="80"/>
+                    <DataGridTextColumn Header="Type" Binding="{Binding RoomType.RoomTypeName}" Width="120"/>
+                    <DataGridTextColumn Header="Capacity" Binding="{Binding RoomMaxCapacity}" Width="80"/>
+                    <DataGridTextColumn Header="Price/Day" Binding="{Binding RoomPricePerDay, StringFormat='C'}" Width="100"/>
+                    <DataGridTextColumn Header="Description" Binding="{Binding RoomDetailDescription}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <StackPanel Grid.Column="1" Width="200">
+                <Label Content="Start Date:"/>
+                <DatePicker SelectedDate="{Binding NewBookingStartDate}"/>
+                <Label Content="End Date:" Margin="0,10,0,0"/>
+                <DatePicker SelectedDate="{Binding NewBookingEndDate}"/>
+                <Button Content="Add to Booking" Command="{Binding AddDetailCommand}" Margin="0,20,0,0" Padding="10,5"/>
+            </StackPanel>
+        </Grid>
+
+        <TextBlock Grid.Row="3" Text="2. REVIEW YOUR BOOKING" FontSize="18" FontWeight="Bold" Margin="0,20,0,10" HorizontalAlignment="Center"/>
+
+        <Grid Grid.Row="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <DataGrid Grid.Column="0" AutoGenerateColumns="False" CanUserAddRows="False"
+                      IsReadOnly="True" ItemsSource="{Binding PendingBookingDetails}"
+                      SelectedItem="{Binding SelectedPendingDetail}"
+                      Margin="0,0,10,0">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Room #" Binding="{Binding Room.RoomNumber}" Width="80"/>
+                    <DataGridTextColumn Header="Type" Binding="{Binding Room.RoomType.RoomTypeName}" Width="*"/>
+                    <DataGridTextColumn Header="Start Date" Binding="{Binding StartDate, StringFormat='dd/MM/yyyy'}" Width="100"/>
+                    <DataGridTextColumn Header="End Date" Binding="{Binding EndDate, StringFormat='dd/MM/yyyy'}" Width="100"/>
+                    <DataGridTextColumn Header="Price" Binding="{Binding ActualPrice, StringFormat='C'}" Width="100"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <Button Grid.Column="1" Content="Remove Selected" Command="{Binding RemoveDetailCommand}"
+                    VerticalAlignment="Top" Padding="10,5"/>
+        </Grid>
+
+        <StackPanel Grid.Row="5" HorizontalAlignment="Right" Margin="0,15,0,0">
+            <TextBlock Text="{Binding TotalBookingPrice, StringFormat='Total Price: {0:C}'}"
+                       FontSize="16" FontWeight="Bold" HorizontalAlignment="Right"/>
+
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                <Button Content="Confirm and Book" Command="{Binding CreateBookingCommand}"
+                        Padding="15,5" Margin="0,0,10,0"/>
+                <Button Content="Cancel" Command="{Binding CancelCommand}" Padding="15,5" IsCancel="True"/>
+            </StackPanel>
+
+            <TextBlock Text="{Binding BookingErrorMessage}" Foreground="Red" TextWrapping="Wrap" Margin="0,10,0,0" HorizontalAlignment="Right"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
